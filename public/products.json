@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Sophisticated Swagger Suit",
+    "price": 80.0,
+    "img": "https://pixio-react.vercel.app/assets/3-DFzNmbxq.png",
+    "discount": "20% OFF"
+  },
+  {
+    "id": 2,
+    "name": "Checkered Slim Collar Casual Shirt",
+    "price": 94.0,
+    "img": "https://pixio-react.vercel.app/assets/1-DUSobqN6.png",
+    "discount": "20% OFF"
+  },
+  {
+    "id": 3,
+    "name": "Solid Cut Away Collar Casual Shirt",
+    "price": 35.0,
+    "img": "https://pixio-react.vercel.app/assets/1-DUSobqN6.png",
+    "discount": "20% OFF"
+  },
+  {
+    "id": 4,
+    "name": "Athletic Mesh Sports Leggings",
+    "price": 45.0,
+    "img": "https://pixio-react.vercel.app/assets/1-DUSobqN6.png",
+    "discount": "20% OFF"
+  }
+]
